@@ -8,4 +8,4 @@ The Ninja Frog is a small 2d platformer game that contains 2 levels. You can pla
 - Move right - **Right** arrow or **D** key
 - Jump - **Space** key
 
-[Demo](https://play.unity.com/mg/other/webgl-builds-363814) 👈
+[Demo](https://play.unity.com/mg/other/webgl-builds-363891) 👈
